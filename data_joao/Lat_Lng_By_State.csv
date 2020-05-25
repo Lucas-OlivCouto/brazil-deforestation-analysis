@@ -1,0 +1,27 @@
+﻿City,Lat_Capital,Lng_Capital,Lat,Lng,Country,ISO2,State,Capital,Population,Population_Proper,State Long,Biome,Rainfall,Rainfall_X,Forestfires,Forestfires_X,Deforestation,Deforestation_X
+Natal,-9.966667,-67.8,-8.77,-70.55,Brazil,BR,AC,admin,"881,935","257,642",Acre,Legal Amazon,5,1890,3,7042,5,257
+Palmas,-22.875113,-43.277548,-22.875113,-43.277548,Brazil,BR,RJ,admin,"17,264,943","2,010,175",Rio de Janeiro,Non-LA,,191,,1397,,0
+Boa Vista,-5.102887,-42.801549,-5.102887,-42.801549,Brazil,BR,PI,admin,"3,273,227","586,721",Piaui,Non-LA,,240,,9478,,0
+Belem,-19.901739,-43.964196,-19.901739,-43.964196,Brazil,BR,MG,admin,"21,168,791","2,373,224",Minas Gerais,Non-LA,,829,,11473,,0
+Florianopolis,-15.77972,-47.92972,-15.77972,-47.92972,Brazil,BR,DF,admin,"3,015,268","3,015,268",Distrito Federal,Non-LA,,1037,,410,,0
+Porto Alegre,-20.332179,-40.345011,-20.332179,-40.345011,Brazil,BR,ES,admin,"4,018,650","312,656",Espirito Santo,Non-LA,,1054,,234,,0
+Recife,-25.416667,-49.25,-25.416667,-49.25,Brazil,BR,PR,admin,"11,433,957","1,498,860",Parana,Non-LA,,1135,,4463,,0
+Teresina,-16.701028,-49.266793,-16.701028,-49.266793,Brazil,BR,GO,admin,"7,018,354","1,171,195",Goias,Non-LA,,1150,,8705,,0
+San Paulo,-10.916667,-37.066667,-10.916667,-37.066667,Brazil,BR,SE,admin,"2,298,696","490,175",Sergipe,Non-LA,,1180,,75,,0
+Manaus,-3.113333,-60.025278,-3.07,-61.66,Brazil,BR,AM,admin,"4,144,597","1,520,244",Amazonas,Legal Amazon,6,2136,5,14798,7,1001
+Salvador,0.035158,-51.061633,1.41,-51.77,Brazil,BR,AP,admin,"845,731","368,397",Amapa,Legal Amazon,7,2139,2,1465,3,24
+Macapa,-2.532519,-44.296299,-2.55,-44.3,Brazil,BR,MA,admin,"7,075,181","11,385",Maranhao,Legal Amazon,8,2199,7,28639,6,265
+Vitoria,-3.737464,-38.546167,-3.737464,-38.546167,Brazil,BR,CE,admin,"9,132,078","2,315,116",Ceara,Non-LA,,1450,,2555,,0
+Cuiaba,-12.983333,-38.516667,-12.983333,-38.516667,Brazil,BR,BA,admin,"14,873,064","2,678,845",Bahia,Non-LA,,1455,,8249,,0
+Goiania,-27.590444,-48.57581,-27.590444,-48.57581,Brazil,BR,SC,admin,"7,164,788","114,566",Santa Catarina,Non-LA,,1522,,2354,,0
+Curitiba,-23.573252,-46.641681,-23.573252,-46.641681,Brazil,BR,SP,admin,"45,919,049","10,021,295",San Paulo,Non-LA,,1523,,5406,,0
+Belo Horizonte,-5.80021,-35.210669,-5.80021,-35.210669,Brazil,BR,RN,admin,"3,506,853","763,043",Rio Grande do Norte,Non-LA,,1608,,299,,0
+Aracaju,-30.033333,-51.2,-30.033333,-51.2,Brazil,BR,RS,admin,"11,377,239","1,372,741",Rio Grande do Sul,Non-LA,,1627,,2575,,132
+Rio de Janeiro,-15.596,-56.097,-12.64,-55.42,Brazil,BR,MT,admin,"3,484,466","400,287",Mato Grosso,Legal Amazon,2,1314,8,36344,2,0
+Fortaleza,-7.123742,-34.865646,-7.123742,-34.865646,Brazil,BR,PB,admin,"4,018,127","650,883",Paraiba,Non-LA,,2044,,294,,2433
+Rio Branco,-1.437281,-48.470614,-5.53,-52.29,Brazil,BR,PA,admin,"8,602,865","1,407,737",Para,Legal Amazon,9,3321,9,59771,9,1561
+Porto Velho,-8.7612,-63.9038887,-8.7612,-63.9038887,Brazil,BR,RO,admin,"1,777,225","605,761",Rondonia,Legal Amazon,1,1,4,10961,1,0
+Maceio,-8.05,-34.9,-8.05,-34.9,Brazil,BR,PE,admin,"9,557,071","1,478,098",Pernambuco,Non-LA,,2150,,522,,0
+Sao Luis,2.820842,-60.671312,1.89,-61.22,Brazil,BR,RR,admin,"605,761","169,449",Roraima,Legal Amazon,4,1395,1,1101,8,1243
+Brazilia,-9.652406,-35.722433,-9.652406,-35.722433,Brazil,BR,AL,admin,"3,337,357","814,431",Alagoas,Non-LA,,2976,,159,,0
+Joao Pessoa,-10.166944,-48.332778,-10.25,-48.25,Brazil,BR,TO,admin,"1,572,866","196,272",Tocantins,Legal Amazon,3,1321,6,21129,4,31
