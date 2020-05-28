@@ -22,9 +22,9 @@ In 2018, Brazil released its worst annual deforestation figures in a decade. Bet
 
 ## More Visualizations
 ### Precipitation
-<div><img src="https://github.com/jCosta16/brazil-climate-analysis/blob/master/output_data/images/Fires_by_state.png" alt="firebystate" width="45%"/><img src="https://github.com/jCosta16/brazil-climate-analysis/blob/master/output_data/images/fire_state_year.png.png" alt="firextebyyear" width="45%"/></div>
+<div><img src="https://github.com/jCosta16/brazil-climate-analysis/blob/master/output_data/images/Fires_by_state.png" alt="firebystate" width="49%"/><img src="https://github.com/jCosta16/brazil-climate-analysis/blob/master/output_data/images/fires_legalAmazon.png" alt="fireLA" width="49.5%"/></div>
 <br>
-<div><img src="https://github.com/jCosta16/API-Challenge/blob/master/WeatherPy/output_data/cloudiness.png" alt="cloudiness" width="49.5%"/><img src="https://github.com/jCosta16/API-Challenge/blob/master/WeatherPy/output_data/wind_speed.png" alt="wind_speed.png" width="49.5%"/>
+<div><img src="https://github.com/jCosta16/brazil-climate-analysis/blob/master/output_data/images/fire_state_year.png.png" alt="firextebyyear" width="49%"/>
   </div>
 
 ![](/output_data/images/rain_state_year.png)
