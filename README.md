@@ -16,7 +16,8 @@ Deforestation rates in the Brazilian Amazon have slowed dramatically since peaki
 
 Using linear regression, it was found that there is an 87% correlation between fires and deforestation. Because there is no correlation between precipitation and deforestation, we can deduce that most of the deforestation is man-made, rather than caused by natural conditions.
 
-![](/output_data/images/lr_fire_defo_state.png)
+<div><img src="https://github.com/jCosta16/brazil-climate-analysis/blob/master/output_data/images/lr_fire_defo_state.png" alt="firebystate" width="50%"/><img src="https://github.com/jCosta16/brazil-climate-analysis/blob/master/output_data/images/fire_defo_state.png" alt="fireLA" width="50%"/></div>
+
 
 In 2018, Brazil released its worst annual deforestation figures in a decade. Between August 2017 and July 2018, 7,900 km2 were deforested– a 13.7% rise from the previous year, and the biggest area of forest cleared since 2008. Deforestation in the Brazilian Amazon rose more than 88% in June 2019 compared with the same month in 2018. In the year 2019 approximately 9,762 square kilometers of the Amazonian forest were destroyed, 30% more than in the previous year.
 
@@ -28,14 +29,11 @@ In 2018, Brazil released its worst annual deforestation figures in a decade. Bet
   </div>
 
 ### Deforestation
-<div><img src="https://github.com/jCosta16/API-Challenge/blob/master/WeatherPy/output_data/maxtemp.png" alt="maxtemp" width="49%"/><img src="https://github.com/jCosta16/brazil-climate-analysis/blob/master/output_data/images/fire_state_year.png" alt="humidity" width="49%"/></div>
-<br>
+
 <div><img src="https://github.com/jCosta16/brazil-climate-analysis/blob/master/output_data/images/def_state_year.png" alt="defobystatebyyear"/><
   </div>
 
-![](/output_data/images/rain_state_year.png)
-
-### Deforestation
+### Rain
 <div><img src="https://github.com/jCosta16/API-Challenge/blob/master/WeatherPy/output_data/maxtemp.png" alt="maxtemp" width="49%"/><img src="https://github.com/jCosta16/API-Challenge/blob/master/WeatherPy/output_data/humidity.png" alt="humidity" width="49%"/></div>
 <br>
 <div><img src="https://github.com/jCosta16/API-Challenge/blob/master/WeatherPy/output_data/cloudiness.png" alt="cloudiness" width="49.5%"/><img src="https://github.com/jCosta16/API-Challenge/blob/master/WeatherPy/output_data/wind_speed.png" alt="wind_speed.png" width="49.5%"/>
