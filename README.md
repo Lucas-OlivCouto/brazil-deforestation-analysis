@@ -9,7 +9,7 @@ The Legal Amazon is a socio-geographic division in Brazil, containing nine state
 
 Deforestation rates in the Brazilian Amazon have slowed dramatically since peaking in 2004 at 27,423 square kilometers per year. By 2009, deforestation had fallen to around 7,000 square kilometers per year, a decline of nearly 75 percent from 2004, a trend that has continued until 2017. While these figures seem promising, data from the 2018 and 2019 shows otherwise.
 
-![](/output_data/images/defor_year.png)
+![](/output_data/images/defor_year.png) 
 
 
 ### Deforestation vs Fires
