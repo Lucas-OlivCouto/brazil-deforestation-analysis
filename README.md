@@ -1,4 +1,4 @@
-# Brazil's Amazon Cimate Analysis:
+# Brazil's Amazon Climate Analysis:
 
 Project aimed at exploring the relationship between precipitation, fires and deforestation in Brazil. Gathered data from governmental websites, APIs, and CSVs. Analysis includes statistical analyses and graphs.
 
