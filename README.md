@@ -30,7 +30,7 @@ In 2018, Brazil released its worst annual deforestation figures in a decade. Bet
 
 ### Deforestation
 
-<div><img src="https://github.com/jCosta16/brazil-climate-analysis/blob/master/output_data/images/def_state_year.png" alt="defobystatebyyear"/><
+<div><img src="https://github.com/jCosta16/brazil-climate-analysis/blob/master/output_data/images/def_state_year.png" alt="defobystatebyyear"/>
   </div>
 
 ### Rain
