@@ -2,6 +2,11 @@
 
 Project aimed at exploring the relationship between precipitation, fires and deforestation in Brazil. Gathered data from governmental websites, APIs, and CSVs. Analysis includes statistical analyses and graphs.
 
+## Applied Technologies
+* Python
+- Matplotlib
+
+## Analysis
 Because Brazil is quite large, 8.5 million square kilometers, with over 211 million people, the analysis was geographically refined from the entirety of Brazil to just analyzing the Legal Amazon. 
 The Legal Amazon is a socio-geographic division in Brazil, containing nine states with the Amazon Biome (Acre, Amapá, Amazonas, Pará, Rondônia, Roraima, Tocantins, Matto Grosso and Maranhão). This region accounts for 1/3 of the planet’s tropical rainforests, has the world’s highest biodiversity, the largest genetic bank, and 1/5 of the world's available drinking water. Preserving the Amazon is a top priority in mitigating Climate Change.
 
