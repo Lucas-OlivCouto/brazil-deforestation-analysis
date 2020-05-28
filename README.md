@@ -30,7 +30,7 @@ In 2018, Brazil released its worst annual deforestation figures in a decade. Bet
 ![](/output_data/images/rain_state_year.png)
 
 ### Fire
-<div><img src="https://github.com/jCosta16/API-Challenge/blob/master/WeatherPy/output_data/maxtemp.png" alt="maxtemp" width="49%"/><img src="https://github.com/jCosta16/brazil-climate-analysis/blob/master/output_data/images/fire_state_year.png.png" alt="humidity" width="49%"/></div>
+<div><img src="https://github.com/jCosta16/API-Challenge/blob/master/WeatherPy/output_data/maxtemp.png" alt="maxtemp" width="49%"/><img src="https://github.com/jCosta16/brazil-climate-analysis/blob/master/output_data/images/fire_state_year.png" alt="humidity" width="49%"/></div>
 <br>
 <div><img src="https://github.com/jCosta16/API-Challenge/blob/master/WeatherPy/output_data/cloudiness.png" alt="cloudiness" width="49.5%"/><img src="https://github.com/jCosta16/API-Challenge/blob/master/WeatherPy/output_data/wind_speed.png" alt="wind_speed.png" width="49.5%"/>
   </div>
