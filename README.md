@@ -4,7 +4,22 @@ Project aimed at exploring the relationship between precipitation, fires and def
 
 ## Applied Technologies
 * Python
+- Pandas
 - Matplotlib
+
+## Steps
+* Step 1 - Get the Data
+  - Data Sources: <br>
+      [TerraBrasilis - Deforestation data](http://terrabrasilis.dpi.inpe.br/)<br>
+      [Kaggle - Precipitation data](https://www.kaggle.com/fabiopotsch/precipitation-in-brazil)<br>
+      [Kaggle - Forest Fires data](https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil)<br>
+
+* Step 2 - Pandas and Matplotlib
+    - Data munging using pandas
+    - Build Charts using Matplotlib
+    
+ * Step 3 - Analysis
+    - Using the charts and research, build an analysis about significant tendencies
 
 ## Analysis
 Because Brazil is quite large, 8.5 million square kilometers, with over 211 million people, the analysis was geographically refined from the entirety of Brazil to just analyzing the Legal Amazon. 
